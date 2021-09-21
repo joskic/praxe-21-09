@@ -6,6 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("Ahoj ty kokot");
         System.out.println("Zelena je trava, zajda neda klik");
-        System.out.println("dalsi k ncie");
+        System.out.println("extrem");
     }
 }
